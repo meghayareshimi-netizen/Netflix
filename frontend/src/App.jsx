@@ -34,7 +34,7 @@ function App() {
       if (isLogin) {
         // Redirect to the Netflix landing page (movie app)
         setTimeout(() => {
-          window.location.href = '/index.html';
+          window.location.href = '/netflix.html';
         }, 1500);
       } else {
         // Switch to login after successful registration
