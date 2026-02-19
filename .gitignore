@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+.DS_Store
+dist/
+dist-ssr
+*.local
+
+# Environment
+.env
+
+# Build outputs
+frontend/dist/
+backend/node_modules/
+frontend/node_modules/
